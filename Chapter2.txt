@@ -1,6 +1,11 @@
 Hey this is chapter 2 huhu 
+<<<<<<< HEAD
 adojjfh adhf a
 df 
 adfkoja dfjias dfadfioajdf 
 adfh aodf 
 adifj adif aoidf asdf 
+=======
+
+My novel is AW ESOME!!!
+>>>>>>> AW

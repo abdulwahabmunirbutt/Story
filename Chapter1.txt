@@ -1,4 +1,8 @@
 Hello Hello How are you?
+<<<<<<< HEAD
 sdofj asdadfdf
 aoidjf aiodf 
 adfiajd foija df
+=======
+This is me bro sidjf sjf sd fasdf
+>>>>>>> AW
